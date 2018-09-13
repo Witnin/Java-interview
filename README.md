@@ -1,2 +1,3 @@
 # Java-interview
 Java-interview of all.
+contains basic oop  mysql oracle linux nginx dubbo redis ssh ssm ...
